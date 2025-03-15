@@ -1,3 +1,4 @@
+import code
 from code.game import Game
 
 game = Game()
